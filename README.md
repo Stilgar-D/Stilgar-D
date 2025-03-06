@@ -56,3 +56,6 @@ Here are some ideas to get you started:
 * [ ] Пройти курс по Git на Slurm
 * [ ] Создать свой первый проект на Github       
 <!-- TODO-IST:END -->
+
+
+#slurm
